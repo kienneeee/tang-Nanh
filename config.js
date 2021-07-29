@@ -12,4 +12,4 @@ const CONFIG = {
     mess: 'Kiên biết mà 🥰. Yêu Nanh nhất 😘😘',
     messDesc: 'Sinh nhật vui vẻ nha công chúa ❤.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' https://www.facebook.com/profile.php?id=100066933925753
+    
